@@ -1,0 +1,10 @@
+.image{
+    position: absolute;
+width: 335px;
+height: 340px;
+left: 20px;
+top: 20px;
+
+/* background: url(rectangle.png); */
+border-radius: 20px;
+}

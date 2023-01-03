@@ -1,0 +1,22 @@
+.App{
+  position: relative;
+  background: #D0E7FF;
+  width: 1350px;
+  height: 1000px;
+  
+}
+.App-main{
+  position: absolute;
+width: 375px;
+height: 812px;
+left: 500px;
+top: 50px;
+
+background: linear-gradient(161.47deg, #E7E9F3 -11.63%, #FFFFFF 91.02%);
+box-shadow: 34px 24px 77px rgba(8, 88, 208, 0.17);
+border-radius: 32px;
+
+
+}
+
+

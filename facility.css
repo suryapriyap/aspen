@@ -1,0 +1,48 @@
+h3{
+    position: absolute;
+    width: 82px;
+    height: 22px;
+    left: 20px;
+    top: 591px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #232323;
+}
+.icons{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 335px;
+height: 74px;
+left: 20px;
+top: 629px;
+}
+.wifi{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 20px;
+gap: 6px;
+
+width: 70px;
+height: 70px;
+
+background:linear-gradient(270.77deg, rgba(23, 111, 242, 0.05) 1.64%, rgba(25, 110, 238, 0.05) 102.71%);
+
+border-radius: 16px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
